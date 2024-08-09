@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Programming Languages::</h2>
+<h2 align="left">Programming Languages:</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">Version Control::</h2>
+<h2 align="left">Version Control:</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Database::</h2>
+<h2 align="left">Database:</h2>
 
 ###
 <div align="left">
@@ -63,7 +63,7 @@
 
 ###
 
-<h2 align="left">My social media accounts::</h2>
+<h2 align="left">My social media accounts:</h2>
 
 ###
 
