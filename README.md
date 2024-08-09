@@ -40,10 +40,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=iremsila0108&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <div align="left">
